@@ -18,12 +18,12 @@ The website contains multiple pages where users can explore food categories, vie
 
 ## 📂 Folder Structure
 
-│── index.html # Home Page
-│── foods.html # Foods Menu Page
-│── order.html # Order Form Page
-│── css/
-│ └── style.css # Stylesheet
-│── images/ # All food and logo images
+->index.html # Home Page
+-> foods.html # Foods Menu Page
+-> order.html # Order Form Page
+-> css/
+   ->style.css # Stylesheet
+->images/ # All food and logo images
 
 
 ## 🔮 Future Improvements
